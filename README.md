@@ -84,5 +84,12 @@ I'm an entry-level QA Engineer with skills in manual testing. Proficient in iden
 
 ### 📚 Courses and certificates:
 
-  ![Google Cloud Fundamentals: Core Infrastructure](URL_TO_YOUR_FILE)
-  
+<div>
+
+  [Google Cloud Fundamentals: Core Infrastructure](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Coursera%201%20course.pdf)  
+  [Essential Google Cloud Infrastructure: Foundation](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Coursera%201%20course.pdf)  
+  [AWS Cloud Technical Essentials](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Coursera%201%20course.pdf)  
+  [Introduction to HTML5](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Coursera%201%20course.pdf)  
+  [Python Generation": course for beginners](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Coursera%201%20course.pdf)  
+
+</div>  
