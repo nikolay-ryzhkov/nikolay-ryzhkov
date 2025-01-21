@@ -82,12 +82,9 @@ I'm an entry-level QA Engineer with skills in manual testing. Proficient in iden
 
 ### 📚 Courses and certificates:
 
-<div>
-
-  [Google Cloud Fundamentals: Core Infrastructure](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Coursera%201%20course.pdf)  
-  [Essential Google Cloud Infrastructure: Foundation](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Essential%20Google%20Cloud%20Infrastructure%20Foundation.pdf)  
-  [AWS Cloud Technical Essentials](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/AWS%20Cloud%20Technical%20Essentials.pdf)  
-  [Introduction to HTML5](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/AWS%20Cloud%20Technical%20Essentials.pdf)  
-  [Python Generation: course for beginners](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Python%20Generation%20course%20for%20beginners.pdf)  
-
-</div>  
+  <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Coursera%201%20course.pdf" target="_blank">Google Cloud Fundamentals: Core Infrastructure</a>  
+  <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Essential%20Google%20Cloud%20Infrastructure%20Foundation.pdf" target="_blank">Essential Google Cloud Infrastructure: Foundation</a>  
+  <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/AWS%20Cloud%20Technical%20Essentials.pdf" target="_blank">AWS Cloud Technical Essentials</a>  
+  <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/AWS%20Cloud%20Technical%20Essentials.pdf" target="_blank">Introduction to HTML5</a>  
+  <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Python%20Generation%20course%20for%20beginners.pdf" target="_blank">Python Generation: Course for Beginners</a>
+  
