@@ -65,11 +65,11 @@ I'm an entry-level QA Engineer with skills in manual testing. Proficient in iden
 
 <div>
 
-  [Checklists]()  
-  [Test-Cases]()  
+  [Checklists](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Cheklists)  
+  [Test-Cases](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Test-Cases)  
   [Bug-reports]()  
-  [SQL Queries]()  
-  [Postman Collections]()  
+  [SQL Queries](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/SQL%20Queries)  
+  [Postman Collections](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Postman%20Collections)  
 
 </div>
 
