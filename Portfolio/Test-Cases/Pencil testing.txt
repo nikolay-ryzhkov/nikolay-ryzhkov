@@ -1,0 +1,24 @@
+Smoke Test:
+Can this pencil write/draw on regular office A4 paper?
+
+Functional Tests:
+Can the pencil write on sticky notes?
+Can the pencil write on a desk?
+What is the thickness of the line it leaves?
+At what angles can it be used for drawing?
+How quickly does it become blunt?
+How does the pencil behave on slanted surfaces (e.g., if it is round, does it roll off inclined desks)?
+How well can the pencil be sharpened?
+Can it be used to rewind a cassette tape?
+
+Non-Functional Tests:
+Does the pencil’s appearance match the specifications?
+Do the materials used in the pencil meet specifications and comply with standards (e.g., GOST)?
+Is the pencil comfortable to hold? (Usability Testing)
+Does it slip out of fingers during use? (Usability Testing)
+Does the lead break if the pencil is dropped from a height of 1m onto a hard surface? (Performance Testing -> Stress)
+Does the pencil bend? (Performance Testing -> Stress)
+How long can the pencil be used for writing/drawing before needing to be sharpened again? (Performance Testing -> Stability)
+
+Safety Testing:
+Is the pencil made from safe materials?
