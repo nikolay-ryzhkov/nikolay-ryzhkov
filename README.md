@@ -67,6 +67,7 @@ I'm an entry-level QA Engineer with skills in manual testing. Proficient in iden
 
   [Checklists](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Cheklists)  
   [Test-Cases](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Test-Cases)  
+  [Bug-reports. Jira examples](https://docs.google.com/spreadsheets/d/1DAChomY0NkH5ctrRIyHOo3N9HbsRdbVLS2sbiZhzKB0/edit?usp=sharing)  
   [Bug-reports. Google Docs](https://docs.google.com/spreadsheets/d/1DAChomY0NkH5ctrRIyHOo3N9HbsRdbVLS2sbiZhzKB0/edit?usp=sharing)  
   [SQL Queries](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/SQL%20Queries)  
   [Postman Collections](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Postman%20Collections)  
@@ -77,7 +78,7 @@ I'm an entry-level QA Engineer with skills in manual testing. Proficient in iden
 
 ### 🙋🏻‍♂️ Soft Skills:
 
-#### Ability to find a common language with people, communicative, sociable, responsible, reliable, oriented with desire to help people.
+#### Responsible, reliable, punctual, communicative, sociable.
 
 ---
 
