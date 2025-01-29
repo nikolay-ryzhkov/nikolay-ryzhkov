@@ -67,7 +67,7 @@ I'm an entry-level QA Engineer with skills in manual testing. Proficient in iden
 
   [Checklists](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Cheklists)  
   [Test-Cases](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Test-Cases)  
-  [Bug-reports]()  
+  [Bug-reports. Google Docs](https://docs.google.com/spreadsheets/d/1DAChomY0NkH5ctrRIyHOo3N9HbsRdbVLS2sbiZhzKB0/edit?usp=sharing)  
   [SQL Queries](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/SQL%20Queries)  
   [Postman Collections](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Postman%20Collections)  
 
@@ -83,6 +83,7 @@ I'm an entry-level QA Engineer with skills in manual testing. Proficient in iden
 
 ### 📚 Courses and certificates:
 
+  <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Coursera%201%20course.pdf" target="_blank">Software testing from scratch. Theory + Practice</a>  
   <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Coursera%201%20course.pdf" target="_blank">Google Cloud Fundamentals: Core Infrastructure</a>  
   <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Essential%20Google%20Cloud%20Infrastructure%20Foundation.pdf" target="_blank">Essential Google Cloud Infrastructure: Foundation</a>  
   <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/AWS%20Cloud%20Technical%20Essentials.pdf" target="_blank">AWS Cloud Technical Essentials</a>  
