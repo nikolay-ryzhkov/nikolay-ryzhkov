@@ -90,5 +90,5 @@ I'm an entry-level QA Engineer with skills in manual testing. Proficient in iden
   <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Essential%20Google%20Cloud%20Infrastructure%20Foundation.pdf" target="_blank">Essential Google Cloud Infrastructure: Foundation</a>  
   <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/AWS%20Cloud%20Technical%20Essentials.pdf" target="_blank">AWS Cloud Technical Essentials</a>  
   <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/AWS%20Cloud%20Technical%20Essentials.pdf" target="_blank">Introduction to HTML5</a>  
-  <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Python%20Generation%20course%20for%20beginners.pdf" target="_blank">Python Generation: Course for Beginners</a>
+  <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Python%20Generation%20course%20for%20beginners.pdf" target="_blank">Python Generation: Course for Beginners</a>  
   <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Skelar%20Support%20Intensive.png" target="_blank">Skelar Support Intensive</a>
