@@ -69,6 +69,7 @@ I'm an entry-level QA Engineer with skills in manual testing. Proficient in iden
   [Test-Cases](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Test-Cases)  
   [Bug-reports. Jira examples](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Portfolio/Bug-reports/Bug-reports%20Jira.pdf)  
   [Bug-reports. Google Docs](https://docs.google.com/spreadsheets/d/1DAChomY0NkH5ctrRIyHOo3N9HbsRdbVLS2sbiZhzKB0/edit?usp=sharing)  
+  [Test Plan](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Cheklists)  
   [SQL Queries](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/SQL%20Queries)  
   [Postman Collections](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Postman%20Collections)  
 
