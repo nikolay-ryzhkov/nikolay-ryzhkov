@@ -1,4 +1,5 @@
 ![Header](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/assets/img.png)
+
 # Hello! My name is Nick.
 
 ---
@@ -8,6 +9,7 @@
 I'm an entry-level QA Engineer with skills in manual testing. Proficient in identifying bugs, writing test cases, and working with testing documentation. Continuously improving in the field of software testing and committed to delivering high-quality products. Eager to learn and collaborate as part of a team to achieve common goals.
 
 ---
+
 ### 🤝 Contacts:
 
   <div id="badges">
@@ -20,14 +22,15 @@ I'm an entry-level QA Engineer with skills in manual testing. Proficient in iden
   </div>
 
 ---
+
 ### 📄 My CV
 
-  [CV Nikolay Ryzhkov](https://docs.google.com/document/d/13wz-GQbtN05J9l5kZGlwKCMY9WjdGA5U8NfPyo4DpxU/edit?usp=sharing)
-
+[CV Nikolay Ryzhkov](https://docs.google.com/document/d/13wz-GQbtN05J9l5kZGlwKCMY9WjdGA5U8NfPyo4DpxU/edit?usp=sharing)
 
 ---
 
 ### 🛠 Hard Skills & Tools
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="JIRA" alt="JIRA" width="40" height="40"/>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -55,6 +58,7 @@ I'm an entry-level QA Engineer with skills in manual testing. Proficient in iden
 ---
 
 ### 🌍 LANGUAGE KNOWLEDGE
+
 - English – B1.
 - Russian - speak fluently.
 - Ukrainian - speak fluently.
@@ -65,13 +69,15 @@ I'm an entry-level QA Engineer with skills in manual testing. Proficient in iden
 
 <div>
 
-  [Checklists](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Cheklists)  
-  [Test-Cases](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Test-Cases)  
-  [Bug-reports. Jira examples](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Portfolio/Bug-reports/Bug-reports%20Jira.pdf)  
-  [Bug-reports. Google Docs](https://docs.google.com/spreadsheets/d/1DAChomY0NkH5ctrRIyHOo3N9HbsRdbVLS2sbiZhzKB0/edit?usp=sharing)  
-  [Test Plan](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Test%20Plan)  
-  [SQL Queries](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/SQL%20Queries)  
-  [Postman Collections](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Postman%20Collections)  
+[Checklists](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Cheklists)  
+[Test-Cases](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Test-Cases)  
+[Bug-reports. Jira examples](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Portfolio/Bug-reports/Bug-reports%20Jira.pdf)  
+[Bug-reports. Google Docs](https://docs.google.com/spreadsheets/d/1DAChomY0NkH5ctrRIyHOo3N9HbsRdbVLS2sbiZhzKB0/edit?usp=sharing)
+[Mobile testing](https://docs.google.com/spreadsheets/d/16dFQqjTbpONO2HDM_JWOSTxqTYxkuSf7E89rCHQGejM/edit?usp=sharing)
+[Requirements Analysis](https://docs.google.com/document/d/11MVOcbJV2K4dxNbXZ4YGgfJnQeiny4Un9o8y5GYUjxc/edit?usp=sharing)  
+[Test Plan](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Test%20Plan)  
+[SQL Queries](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/SQL%20Queries)  
+[Postman Collections](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Postman%20Collections)
 
 </div>
 
@@ -85,10 +91,10 @@ I'm an entry-level QA Engineer with skills in manual testing. Proficient in iden
 
 ### 📚 Courses and certificates:
 
-  <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Coursera%201%20course.pdf" target="_blank">Software testing from scratch. Theory + Practice</a>  
-  <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Coursera%201%20course.pdf" target="_blank">Google Cloud Fundamentals: Core Infrastructure</a>  
-  <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Essential%20Google%20Cloud%20Infrastructure%20Foundation.pdf" target="_blank">Essential Google Cloud Infrastructure: Foundation</a>  
-  <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/AWS%20Cloud%20Technical%20Essentials.pdf" target="_blank">AWS Cloud Technical Essentials</a>  
-  <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/AWS%20Cloud%20Technical%20Essentials.pdf" target="_blank">Introduction to HTML5</a>  
-  <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Python%20Generation%20course%20for%20beginners.pdf" target="_blank">Python Generation: Course for Beginners</a>  
-  <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Skelar%20Support%20Intensive.png" target="_blank">Skelar Support Intensive</a>
+<a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Coursera%201%20course.pdf" target="_blank">Software testing from scratch. Theory + Practice</a>  
+ <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Coursera%201%20course.pdf" target="_blank">Google Cloud Fundamentals: Core Infrastructure</a>  
+ <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Essential%20Google%20Cloud%20Infrastructure%20Foundation.pdf" target="_blank">Essential Google Cloud Infrastructure: Foundation</a>  
+ <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/AWS%20Cloud%20Technical%20Essentials.pdf" target="_blank">AWS Cloud Technical Essentials</a>  
+ <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/AWS%20Cloud%20Technical%20Essentials.pdf" target="_blank">Introduction to HTML5</a>  
+ <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Python%20Generation%20course%20for%20beginners.pdf" target="_blank">Python Generation: Course for Beginners</a>  
+ <a href="https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Certificates/Skelar%20Support%20Intensive.png" target="_blank">Skelar Support Intensive</a>
