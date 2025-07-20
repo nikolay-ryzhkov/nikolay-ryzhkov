@@ -70,14 +70,14 @@ I'm an entry-level QA Engineer with skills in manual testing. Proficient in iden
 <div>
 
 [Checklists](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Cheklists)  
-[Test-Cases](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Test-Cases)  
-[Bug-reports. Jira examples](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Portfolio/Bug-reports/Bug-reports%20Jira.pdf)  
-[Bug-reports. Google Docs](https://docs.google.com/spreadsheets/d/1DAChomY0NkH5ctrRIyHOo3N9HbsRdbVLS2sbiZhzKB0/edit?usp=sharing)
-[Mobile testing](https://docs.google.com/spreadsheets/d/16dFQqjTbpONO2HDM_JWOSTxqTYxkuSf7E89rCHQGejM/edit?usp=sharing)
+ [Test-Cases](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Test-Cases)  
+ [Bug-reports. Jira examples](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Portfolio/Bug-reports/Bug-reports%20Jira.pdf)  
+ [Bug-reports. Google Docs](https://docs.google.com/spreadsheets/d/1DAChomY0NkH5ctrRIyHOo3N9HbsRdbVLS2sbiZhzKB0/edit?usp=sharing)  
+[Mobile testing](https://docs.google.com/spreadsheets/d/16dFQqjTbpONO2HDM_JWOSTxqTYxkuSf7E89rCHQGejM/edit?usp=sharing)  
 [Requirements Analysis](https://docs.google.com/document/d/11MVOcbJV2K4dxNbXZ4YGgfJnQeiny4Un9o8y5GYUjxc/edit?usp=sharing)  
-[Test Plan](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Test%20Plan)  
-[SQL Queries](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/SQL%20Queries)  
-[Postman Collections](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Postman%20Collections)
+ [Test Plan](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Test%20Plan)  
+ [SQL Queries](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/SQL%20Queries)  
+ [Postman Collections](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Postman%20Collections)
 
 </div>
 
