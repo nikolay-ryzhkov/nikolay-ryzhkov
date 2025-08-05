@@ -71,7 +71,8 @@ I'm an entry-level QA Engineer with skills in manual testing. Proficient in iden
 
 [Checklists](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Cheklists)  
  [Test-Cases](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/tree/main/Portfolio/Test-Cases)  
- [Bug-reports. Jira examples](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Portfolio/Bug-reports/Bug-reports%20Jira.pdf)  
+ [Registration form Test-Cases](https://docs.google.com/spreadsheets/d/16aWyXjIMI9xMvl0j76HGixu7gpDdAbxAJvf9qi4smTk/edit?gid=0#gid=0)  
+[Bug-reports. Jira examples](https://github.com/nikolay-ryzhkov/nikolay-ryzhkov/blob/main/Portfolio/Bug-reports/Bug-reports%20Jira.pdf)  
  [Bug-reports. Google Docs](https://docs.google.com/spreadsheets/d/1DAChomY0NkH5ctrRIyHOo3N9HbsRdbVLS2sbiZhzKB0/edit?usp=sharing)  
 [Mobile testing](https://docs.google.com/spreadsheets/d/16dFQqjTbpONO2HDM_JWOSTxqTYxkuSf7E89rCHQGejM/edit?usp=sharing)  
 [Requirements Analysis](https://docs.google.com/document/d/11MVOcbJV2K4dxNbXZ4YGgfJnQeiny4Un9o8y5GYUjxc/edit?usp=sharing)  
