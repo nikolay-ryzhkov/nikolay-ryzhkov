@@ -23,9 +23,9 @@ I'm an Junior QA Engineer with skills in manual testing. In my work, I have test
 
 ---
 
-### 📄 My CV
+<!-- ### 📄 My CV
 
-[CV Nikolay Ryzhkov](https://docs.google.com/document/d/13wz-GQbtN05J9l5kZGlwKCMY9WjdGA5U8NfPyo4DpxU/edit?usp=sharing)
+[CV Nikolay Ryzhkov](https://docs.google.com/document/d/13wz-GQbtN05J9l5kZGlwKCMY9WjdGA5U8NfPyo4DpxU/edit?usp=sharing) -->
 
 ---
 
