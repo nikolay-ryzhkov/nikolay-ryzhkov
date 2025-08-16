@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About me:
 
-I'm an entry-level QA Engineer with skills in manual testing. Proficient in identifying bugs, writing test cases, and working with testing documentation. Continuously improving in the field of software testing and committed to delivering high-quality products. Eager to learn and collaborate as part of a team to achieve common goals.
+I'm an Junior QA Engineer with skills in manual testing. In my work, I have tested web and mobile applications, applied test design techniques in practice, and created test documentation, along with hands-on testing of physical hardware. I have hands-on experience with Postman, DevTools, Jira, SQL, Git and Android Studio. My strengths include high attention to detail, strong sense of responsibility, analytical and creative thinking, reasonable perfectionism, and the ability to work both independently and as part of a team.
 
 ---
 
