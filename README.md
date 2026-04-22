@@ -6,7 +6,15 @@
 
 ### 👨‍💻 About me:
 
-I'm an Junior QA Engineer with skills in manual testing. In my work, I have tested web and mobile applications, applied test design techniques in practice, and created test documentation, along with hands-on testing of physical hardware. I have hands-on experience with Postman, DevTools, Jira, SQL, Git and Android Studio. My strengths include high attention to detail, strong sense of responsibility, analytical and creative thinking, reasonable perfectionism, and the ability to work both independently and as part of a team.
+QA Engineer with solid experience in manual testing of web and mobile applications, as well as integrated systems involving physical hardware. Experienced in performing end-to-end, functional, and exploratory testing to ensure high product quality and reliability.
+
+Skilled in designing and executing test cases using various test design techniques, creating and maintaining test documentation, and managing the full defect lifecycle - from identification and reporting to verification and closure.
+
+Hands-on experience with Postman for API testing, Chrome DevTools for debugging and network analysis, Jira for defect tracking, SQL for data validation, Git for version control, and Android Studio for mobile testing.
+
+Collaborate closely with cross-functional teams including developers, product managers, and support engineers to analyze issues, reproduce defects, and improve overall product stability and user experience.
+
+With a background in computer systems engineering, I bring strong analytical thinking, attention to detail, and a systematic approach to problem solving. Comfortable working independently and within agile teams, with a focus on delivering reliable and high-quality software products.
 
 ---
 
